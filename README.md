@@ -16,12 +16,12 @@ ________________________________________________________________________________
 - (Inicia maquina virtual) Rode o comando -> $ **_.\env\Scripts\activate_**
 
 **Macos:** 
--(Cria maquina virtual) Rode o comando -> $ **_python -m env env_**
--(Inicia maquina virtual) Rode o comando -> $ **_source env/bin/activate_**
+- (Cria maquina virtual) Rode o comando -> $ **_python -m env env_**
+- (Inicia maquina virtual) Rode o comando -> $ **_source env/bin/activate_**
 
 **Linux:**
--(Cria maquina virtual) Rode o comando -> $ **_ python3 -m env env_**
--(Inicia maquina virtual) Rode o comando -> $ **_source env/bin/activate_**
+- (Cria maquina virtual) Rode o comando -> $ **_ python3 -m env env_**
+- (Inicia maquina virtual) Rode o comando -> $ **_source env/bin/activate_**
 
 3. Instale todas as depedencias e bibliotecas do projeto com o comando:
 -Windowns, MacOs, Linux -> $ **_pip install -r requirements.txt_**
