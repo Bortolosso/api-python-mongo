@@ -7,5 +7,5 @@ app.include_router(NoticeRouter, tags=["Notice"], prefix="/notice")
 
 @app.get("/", tags=["Root"])
 async def read_root():
-    return {"message": "Welcome to this fantastic app!"}
+    return {"message": "Root API Python -> Mongo !"}
 
