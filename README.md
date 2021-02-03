@@ -24,7 +24,8 @@ ________________________________________________________________________________
 - (Inicia maquina virtual) Rode o comando -> $ **_source env/bin/activate_**
 
 3. Instale todas as depedencias e bibliotecas do projeto com o comando:
--Windowns, MacOs, Linux -> $ **_pip install -r requirements.txt_**
+
+-**Windowns, MacOs, Linux** -> $ **_pip install -r requirements.txt_**
 
 4. Rode a API com o comando -> $ **_python app/main.py_**
 
