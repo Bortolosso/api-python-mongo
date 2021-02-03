@@ -12,15 +12,15 @@ ________________________________________________________________________________
 2. Inicialize e ative sua maquína virtual:
 
 **Windows:**
-- (Cria maquina virtual) Rode o comando -> $ **_python -m env env_**
+- (Cria maquina virtual) Rode o comando -> $ **_python -m venv env_**
 - (Inicia maquina virtual) Rode o comando -> $ **_.\env\Scripts\activate_**
 
 **Macos:** 
-- (Cria maquina virtual) Rode o comando -> $ **_python -m env env_**
+- (Cria maquina virtual) Rode o comando -> $ **_python -m venv env_**
 - (Inicia maquina virtual) Rode o comando -> $ **_source env/bin/activate_**
 
 **Linux:**
-- (Cria maquina virtual) Rode o comando -> $ **_python3 -m env env_**
+- (Cria maquina virtual) Rode o comando -> $ **_python3 -m venv env_**
 - (Inicia maquina virtual) Rode o comando -> $ **_source env/bin/activate_**
 
 3. Instale todas as depedencias e bibliotecas do projeto com o comando:
