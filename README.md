@@ -9,7 +9,8 @@ ________________________________________________________________________________
 
 1. Esteja no diretorio **raiz** do projeto.
 
-2. Inicialize e ative sua maquína virtual com o comando:
+2. Inicialize e ative sua maquína virtual:
+
 **Windows:**
 - (Cria maquina virtual) Rode o comando -> $ **_python -m env env_**
 - (Inicia maquina virtual) Rode o comando -> $ **_.\env\Scripts\activate_**
