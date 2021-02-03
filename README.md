@@ -20,7 +20,7 @@ ________________________________________________________________________________
 - (Inicia maquina virtual) Rode o comando -> $ **_source env/bin/activate_**
 
 **Linux:**
-- (Cria maquina virtual) Rode o comando -> $ **_ python3 -m env env_**
+- (Cria maquina virtual) Rode o comando -> $ **_python3 -m env env_**
 - (Inicia maquina virtual) Rode o comando -> $ **_source env/bin/activate_**
 
 3. Instale todas as depedencias e bibliotecas do projeto com o comando:
